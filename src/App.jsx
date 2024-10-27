@@ -42,7 +42,7 @@ function App() {
             data-aos="fade-right"
             data-aos-duration="1000"
           >
-            happy birth day to you.
+            hbwcubiwuc.
           </h1>
           <p
             className="text-sm lg:text-base lg:w-[40%]"
