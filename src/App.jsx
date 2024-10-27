@@ -49,7 +49,7 @@ function App() {
             data-aos="fade-right"
             data-aos-duration="1200"
           >
-            wndknxiecenic
+            happy birthday ceaaa
           </p>
           <p data-aos="fade-right" data-aos-duration="1300">
             Click "Play" to see Details

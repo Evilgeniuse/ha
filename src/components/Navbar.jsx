@@ -1,4 +1,5 @@
 import { Bell, ChevronDown, Search } from "lucide-react";
+import img from "./me.jpg"
 
 const Navbar = () => {
   const menus = [
@@ -65,7 +66,7 @@ const Navbar = () => {
           <Bell size={20} cursor={"pointer"} />
           <button className="profile flex gap-2 items-center cursor-pointer group relative">
             <img
-              src="https://i.pinimg.com/564x/d2/27/d5/d227d592a61dac7be53becc411e0211e.jpg"
+              src={img}
               alt="profile"
               className="w-10 h-10 rounded-full object-cover "
             />
