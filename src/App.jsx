@@ -42,7 +42,7 @@ function App() {
             data-aos="fade-right"
             data-aos-duration="1000"
           >
-            satuduatiga.
+            HAPPY BIRTHDAYYY!.
           </h1>
           <p
             className="text-sm lg:text-base lg:w-[40%]"
