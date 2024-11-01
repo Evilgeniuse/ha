@@ -97,8 +97,8 @@ function App() {
           Happy Birthday to the queen of naps and the champion of hitting snooze!Waking up wouldn’t be the same without you around – even if you’re always the last one to finally open those dreamy eyes.
           I hope today brings you all the best things in life: good food, great company, and as much sleep as you want – because, let's face it, you deserve it!.
           Let’s take a moment to appreciate your incredible talent for dozing off just about anywhere. Movie nights? Out like a light. Long car rides? Snoozing away. Honestly, I don’t know how you do it, but I’m impressed every time.
-          So, here’s the game plan: today, it’s all about celebrating you! Even though I can’t be there to keep the snacks coming or save you a cozy nap spot,
-           just know I’m cheering you on from here. Hope you’re surrounded by all your favorite things—and people who know just how amazing you are (and appreciate your legendary snooze skills as much as I do)!
+          If I could, I’d be right there handing you a slice of cake, your favorite drink, and maybe even a pillow—so you can celebrate in true Sleepyhead style.
+           Hope you’re surrounded by all your favorite things—and people who know just how amazing you are (and appreciate your legendary snooze skills as much as I do)!
            Happy Birthday, Sleepyhead! May this year be filled with more naps, laughs, and all the things that make you happiest. 🎂💤
 
            Always your number-one fan of your napping skills, [ARQHAN]
@@ -106,7 +106,7 @@ function App() {
           <p>
             With all the love,
             <br />
-            ARQHAN
+            Your biggest fan (and maybe more if you let me), ARQHAN
           </p>
         </div>
       </Modal>
