@@ -106,7 +106,7 @@ function App() {
           <p>
             With all the love,
             <br />
-            Your biggest fan (and maybe more if you let me), ARQHAN
+            Your biggest fan (and maybe more if you let me),
           </p>
         </div>
       </Modal>
