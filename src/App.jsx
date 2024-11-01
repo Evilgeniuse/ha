@@ -104,7 +104,7 @@ function App() {
            Always your number-one fan of your napping skills, [ARQHAN]
           </p>
           <p>
-            With all my love,
+            With all the love,
             <br />
             ARQHAN
           </p>
